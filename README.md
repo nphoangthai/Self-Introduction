@@ -18,6 +18,5 @@ In my portfolio, you can find my projects on data analytics related topics.
 * Google Office: Sheet, Doc, Slide
 
 ## 👋 Connect with Me
-* Linkedin
-* Medium
-* Kaggle
+* [Linkedin](https://www.linkedin.com/in/nphoangthaiwork/)
+* [Kaggle](https://www.kaggle.com/thain0271)
