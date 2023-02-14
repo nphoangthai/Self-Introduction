@@ -19,4 +19,4 @@ In my portfolio, you can find my projects on data analytics related topics.
 
 ## 👋 Connect with Me
 * [Linkedin](https://www.linkedin.com/in/nphoangthaiwork/)
-* [Kaggle](https://www.kaggle.com/thain0271)
+* [Tableau](https://public.tableau.com/app/profile/nguyen.thai7140)
