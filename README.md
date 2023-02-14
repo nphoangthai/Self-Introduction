@@ -12,7 +12,7 @@ In my portfolio, you can find my projects on data analytics related topics.
 * Dashboard development
 
 ## 🛠️ My Tools
-* Databases: SQL (MySQL, SQL Server, Google BigQuery), MongoDB
+* Databases: SQL (MySQL, SQL Server, Google BigQuery)
 * Python: Pandas, Numpy, NetworkX
 * Visualization: Tableau, Power BI
 * Google Office: Sheet, Doc, Slide
